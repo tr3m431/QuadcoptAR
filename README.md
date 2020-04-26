@@ -4,4 +4,4 @@ With everyone stuck in their homes and me particularly being located in an area 
 
 *This project was used as a submission to the HackDSC hackathon
  
-*I don't have my 
+*I don't have my own drone
