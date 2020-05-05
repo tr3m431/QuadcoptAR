@@ -9,4 +9,4 @@ Instructions:
 
 *This project was used as a submission to the HackDSC hackathon
  
-*I don't have my own drone
+*HackDSC: https://devpost.com/software/quadcoptar
